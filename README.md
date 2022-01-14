@@ -14,7 +14,7 @@
 ## I'm Angel Orozco
 #### Full-stack Software Developer in the Making
 
-- Currently working on become a Software Developer capable of building amazing things.
+- I am currently working to become a software developer capable of building amazing things.
 - Student at [Microverse]([https://](https://www.microverse.org/))
 
 ⭐️ From [orozCoding](https://github.com/orozCoding)
