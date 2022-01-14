@@ -15,6 +15,6 @@
 #### Full-stack Software Developer in the Making
 
 - I am currently working to become a software developer capable of building amazing things.
-- Student at [Microverse]([https://](https://www.microverse.org/))
+- Student at [Microverse](https://www.microverse.org/)
 
 ⭐️ From [orozCoding](https://github.com/orozCoding)
