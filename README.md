@@ -11,6 +11,7 @@
 
 [<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=orozCoding&show_icons=true"/>](https://github.com/orozCoding/)
 
+##
 ## I'm Angel Orozco
 #### Full-stack Software Developer in the Making
 
