@@ -16,7 +16,10 @@
 #### Full-stack software developer in the Making
 
 - I am currently working to become a software developer capable of building amazing things.
-- I work with HTML, CSS, JavaScript, React and Redux.
-- Student at [Microverse](https://www.microverse.org/)
+- I work with HTML, CSS, JavaScript, React, Redux, Ruby, Rails, SQL, PostgreSQL and more.
+- Currently building amazing projects and learning new techs like Node, Express, MongoDB and more!
+
+[CHECK MY PORTFOLIO](https://orozcoding.dev)
+
 
 ⭐️ From [orozCoding](https://github.com/orozCoding)
