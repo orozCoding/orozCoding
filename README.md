@@ -1,4 +1,4 @@
-## Hello World!
+## Hello World!  👋
 <a href="https://twitter.com/orozCoding">
   <img align="left" alt="Angel's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
