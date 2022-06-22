@@ -15,7 +15,6 @@
 ## I'm Angel Orozco
 #### Full-stack software developer in the Making
 
-- I am currently working to become a software developer capable of building amazing things.
 - I work with HTML, CSS, JavaScript, React, Redux, Ruby, Rails, SQL, PostgreSQL and more.
 - Currently building amazing projects and learning new techs like Node, Express, MongoDB and more!
 
