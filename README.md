@@ -1,4 +1,4 @@
-## Hello World!  👋
+## Full-stack software developer
 <a href="https://twitter.com/orozCoding">
   <img align="left" alt="Angel's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -9,12 +9,10 @@
   <img align="left" alt="Angel's GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
-##
-## I'm Angel Orozco
-#### Full-stack software developer
+#
 
-- Proficient in Ruby on Rails and JavaScript.
-- Experienced in React, MySQL, PostgreSQL, Tailwind, Bootstrap, StimulusJS, ViewComponents, and more.
+- Proficient in Ruby and JavaScript and related tools such as Ruby on Rails, React, TailwindCSS, StimulusJS, ViewComponents, and more.
+- Experienced in MySQL, PostgreSQL, Bootstrap, AWS, Heroku and more.
 - Currently working for successful SaaS [Simplero](https://simplero.com/)
 
 [Portfolio](https://orozcoding.dev)
