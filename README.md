@@ -11,8 +11,8 @@
 
 #
 
-- Proficient in Ruby and JavaScript and related tools such as Ruby on Rails, React, TailwindCSS, StimulusJS, ViewComponents, and more.
-- Experienced in MySQL, PostgreSQL, Bootstrap, AWS, Heroku and more.
+- Proficient in Ruby, JavaScript, and related tools such as Ruby on Rails, React, TailwindCSS, StimulusJS, ViewComponents, and more.
+- Experienced in MySQL, PostgreSQL, Sass, Bootstrap, AWS, Heroku, and more.
 - Currently working for successful SaaS [Simplero](https://simplero.com/)
 
 [Portfolio](https://orozcoding.dev)
