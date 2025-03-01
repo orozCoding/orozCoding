@@ -1,8 +1,9 @@
 ## Full-stack software developer
 
 - Proficient in Ruby, JavaScript, and related tools such as Ruby on Rails, React, TailwindCSS, StimulusJS, ViewComponents, and more.
-- Experienced in MySQL, PostgreSQL, Sass, Bootstrap, AWS, Heroku, and more.
-- Currently working for successful SaaS [Simplero](https://simplero.com/)
+- Experienced in MySQL, PostgreSQL, Sass, Bootstrap, AWS, Heroku, React Native, and more.
+- Currently working for SaaS [Simplero](https://simplero.com/)
+  and my main solo project [Tasa Dolar Venezuela](https://tasadolar.com)
 
 [Portfolio](https://orozcoding.dev)
 
